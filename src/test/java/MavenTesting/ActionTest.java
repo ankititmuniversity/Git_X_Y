@@ -30,6 +30,7 @@ public class ActionTest {
 		act.moveToElement(element1).click().keyDown(Keys.SHIFT).sendKeys("hello").build().perform();
 		driver.findElement(By.xpath("//span[text()=' beautiful ann napolitano']")).click();
 		System.out.println("Hi Maven");
+		System.out.println("Updated by X");
 	}
 
 }
