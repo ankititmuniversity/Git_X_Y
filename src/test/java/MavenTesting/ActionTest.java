@@ -31,6 +31,7 @@ public class ActionTest {
 		driver.findElement(By.xpath("//span[text()=' beautiful ann napolitano']")).click();
 		System.out.println("Hi Maven");
 		System.out.println("Updated by X");
+		System.out.println("Updated by X 2nd time");
 	}
 
 }
