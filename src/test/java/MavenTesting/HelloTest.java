@@ -10,6 +10,6 @@ public class HelloTest {
 	}
 	@Test
 	public void m2() {
-		System.out.println("Hello method2");
+		System.out.println("Hello method2 update in branch1");
 	}
 }
